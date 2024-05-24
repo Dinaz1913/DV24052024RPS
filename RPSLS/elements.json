@@ -1,0 +1,37 @@
+{
+  "Scissors": {
+    "Win1": "Lizard",
+    "Win2": "Paper",
+    "Lose1": "Rock",
+    "Lose2": "Spock",
+    "Draw": "Scissors"
+  },
+  "Paper": {
+    "Win1": "Rock",
+    "Win2": "Spock",
+    "Lose1": "Scissors",
+    "Lose2": "Lizard",
+    "Draw": "Paper"
+  },
+  "Rock": {
+    "Win1": "Scissors",
+    "Win2": "Lizard",
+    "Lose1": "Spock",
+    "Lose2": "Paper",
+    "Draw": "Rock"
+  },
+  "Lizard": {
+    "Win1": "Spock",
+    "Win2": "Paper",
+    "Lose1": "Rock",
+    "Lose2": "Scissors",
+    "Draw": "Lizard"
+  },
+  "Spock": {
+    "Win1": "Scissors",
+    "Win2": "Rock",
+    "Lose1": "Lizard",
+    "Lose2": "Paper",
+    "Draw": "Spock"
+  }
+}
